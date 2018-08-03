@@ -1,0 +1,25 @@
+{
+  "name": "Huetzin/language-es_mx",
+  "description": "Spanish (Mexico) Language",
+  "version": "1.0.0",
+  "license": [
+    "GPL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Huetzin Sotelo",
+      "email": "huetzinsotelo@gmail.com",
+      "homepage": "https://www.huetzin.one"
+    }
+  ],
+  "require": {
+    "magento/framework": "101.0.*"
+  },
+  "type": "magento2-language",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  },
+
+}
