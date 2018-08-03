@@ -1,5 +1,5 @@
 {
-  "name": "Huetzin/language-es_mx",
+  "name": "huetzin/language-es_mx",
   "description": "Spanish (Mexico) Language",
   "version": "1.0.0",
   "license": [
@@ -20,6 +20,5 @@
     "files": [
       "registration.php"
     ]
-  },
-
+  }
 }
